@@ -1,5 +1,6 @@
 console.log("Hello world");
 
-let toCamelCase = funcyion() {
-    
+let toCamelCase = function(str) {
+    if(str == " ") {
+         
 }
